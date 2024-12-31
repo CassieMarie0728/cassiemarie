@@ -169,7 +169,7 @@ seo:
   metaDescription: Cassie Marie - My Books
   metaTags:
     - type: MetaTag
-      property: 'og:url'
+      property: 'og:description'
   addTitleSuffix: false
   socialImage: /images/PicWish_20241106_104011_2.png
 isDraft: true
