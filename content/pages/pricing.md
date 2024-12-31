@@ -4,7 +4,7 @@ slug: pricing
 sections:
   - title:
       text: My Books
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
