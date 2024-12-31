@@ -165,7 +165,7 @@ sections:
 slug: books
 seo:
   type: Seo
-  metaTitle: Careers - Demo site
+  metaTitle: Cassie Marie - My Books
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 isDraft: true
