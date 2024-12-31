@@ -15,7 +15,7 @@ sections:
       A collection of the books I've written.
     actions:
       - type: Button
-        label: THD
+        label: TBD
         url: /
         icon: arrowRight
         iconPosition: right
