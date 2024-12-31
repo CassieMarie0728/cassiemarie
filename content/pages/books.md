@@ -12,7 +12,7 @@ sections:
           textAlign: center
     subtitle: Section subtitle
     text: |
-      aA collection of my booksbooks.
+      A collection of the books I've written.
     actions:
       - type: Button
         label: See open positions
