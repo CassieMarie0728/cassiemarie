@@ -11,7 +11,9 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: Developers
+      - title: >-
+          Holy Sh*t, They're Gone: Navigating the F*cking Aftermath of Loss
+          Without the Bullsh*t
         price: Free
         details: No credit card required
         description: >-
