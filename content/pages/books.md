@@ -21,7 +21,7 @@ sections:
         iconPosition: right
         style: primary
         showIcon: false
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     backgroundImage:
       type: BackgroundImage
       url: /images/abstract-background.svg
