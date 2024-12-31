@@ -5,9 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: >-
-        Holy Sh*t, They're Gone: Navigating the F*cking Aftermath of Loss
-        Without the Bullsh*t
+      text: m
       color: text-primary
       styles:
         self:
