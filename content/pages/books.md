@@ -20,7 +20,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        showIcon: true
+        showIcon: false
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
