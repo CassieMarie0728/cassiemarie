@@ -8,7 +8,7 @@ sections:
       text: >-
         Holy Sh*t, They're Gone: Navigating the F*cking Aftermath of Loss
         Without the Bullsh*t
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
