@@ -168,5 +168,6 @@ seo:
   metaTitle: Cassie Marie - My Books
   metaDescription: Cassie Marie - My Books
   metaTags: []
+  addTitleSuffix: false
 isDraft: true
 ---
