@@ -5,7 +5,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: >-
+        Holy Sh*t, They're Gone: Navigating the F*cking Aftermath of Loss
+        Without the Bullsh*t
       color: text-dark
       styles:
         self:
