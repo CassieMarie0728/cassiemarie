@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: m
+      text: My Books
       color: text-primary
       styles:
         self:
