@@ -3,7 +3,7 @@ title: Books
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: My Books
       color: text-dark
       styles:
         self:
